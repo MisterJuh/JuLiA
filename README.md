@@ -1,1 +1,1 @@
-# JuLiA
+# Julia
